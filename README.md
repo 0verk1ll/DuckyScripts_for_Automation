@@ -1,3 +1,9 @@
+<!--
+ * SPDX-FileCopyrightText: 2020 0verk1ll
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+-->
+
 # DuckyScripts_for_Automation
 
 Just use a duck encoder to compile the scripts.
