@@ -1,3 +1,7 @@
+REM SPDX-FileCopyrightText: 2019 0verk1ll
+
+REM SPDX-License-Identifier: GPL-3.0-or-later
+
 REM Update Windows computers automatically with Chocolatey.
 Target: Windows Author: 0verk1ll
 DELAY 3000
