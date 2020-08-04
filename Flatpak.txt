@@ -1,0 +1,17 @@
+REM SPDX-FileCopyrightText: 2019 0verk1ll
+
+REM SPDX-License-Identifier: GPL-3.0-or-later
+
+REM Update Flatpaks automatically.
+Target: GNU/Linux with GNOME Desktop Author: 0verk1ll
+DELAY 3000
+REM Open activities overview.
+GUI
+DELAY 3000
+REM Open terminal.
+terminal
+ENTER
+DELAY 3000
+REM Assume "Yes" in permission dialogs.
+flatpak update -y
+ENTER
