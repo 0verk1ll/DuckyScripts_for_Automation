@@ -4,6 +4,8 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
+[![REUSE status](https://api.reuse.software/badge/github.com/0verk1ll/DuckyScripts_for_Automation)](https://api.reuse.software/info/github.com/0verk1ll/DuckyScripts_for_Automation)
+
 # DuckyScripts_for_Automation
 
 Just use a duck encoder to compile the scripts.
